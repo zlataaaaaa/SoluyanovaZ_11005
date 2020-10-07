@@ -2,6 +2,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 
 //количество уникальных символов
+
 public class Moon {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
